@@ -1,0 +1,8 @@
+name = "monokai-terra"
+version = "0.1.0"
+display-name = "Monokai Terra"
+author = "Mirko Brombin"
+description = "Porting of the Bearded Monokai Terra theme"
+icon = "icon.png"
+repository = "https://github.com/mirkobrombin/lapce-monokai-terra"
+color-themes = ["monokai-terra.toml"]
